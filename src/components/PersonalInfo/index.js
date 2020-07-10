@@ -22,7 +22,7 @@ const PersonalInfo = () => {
       />
       <div id="personal-info-wrapper" className="personal-info">
         <ProfileImage />
-        <h1>Hi there!</h1>
+        <h1>CipherWeb LLC</h1>
         <h3>
           <span>社名　サイファーウェブ合同会社<br/>
           代表社員 高野勝通 創立年月日 平成30年（2018）10月15日 資本金 900万円
