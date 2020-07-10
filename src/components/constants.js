@@ -1,4 +1,4 @@
-export const GITHUB_PROFILE_LINK = 'https://github.com/masia02'
+export const GITHUB_PROFILE_LINK = 'https://github.com/masia02/'
 export const LINKEDIN_PROFILE_LINK = 'https://www.linkedin.com/in/masia02/'
 export const FACEBOOK_PROFILE_LINK = 'https://www.facebook.com/cipherweb/'
 export const GMAIL_LINK = 'https://cipherweb.substack.com/'
