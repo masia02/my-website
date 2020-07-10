@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Andrija Perušić`,
-    description: `View Andrija Perušić's website and connect, view projects or download resume.`,
-    author: `Andrija Perušić`,
+    title: `サイファーウェブ合同会社`,
+    description: `フリーランス(個人企業法人)Webコンサルティング・クリプトアーティスト・ブロックチェーンテクノロジーが創る分散社会の思想家`,
+    author: `CipherWeb LLC`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

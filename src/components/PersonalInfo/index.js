@@ -24,15 +24,19 @@ const PersonalInfo = () => {
         <ProfileImage />
         <h1>Hi there!</h1>
         <h3>
-          <span>I'm Andrija Perušić,<br/>
-          Software engineer @ </span>
+          <span>社名　サイファーウェブ合同会社<br/>
+          代表社員 高野勝通 創立年月日 平成30年（2018）10月15日 資本金 900万円
+          Digital Creation @ </span>
           <a target="_blank" rel="noopener noreferrer" href={JOB_DATA.url}>{JOB_DATA.name}</a>
         </h3>
         <div className="separator"></div>
         <p>
-          Thank you for visiting my site! <br/><br/>
-          If you would like to connect, share ideas or view my work, please click on
-          a corresponding object and <b>lets build something great together</b>.
+          <a target="_blank" rel="noopener noreferrer" href="https://note.mu/masia02/n/n6e2dada5a2dc">Webコンサルティング</a><br/><br/>
+          WebAppStore：<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a><br/>
+          デジタル通貨入門：<a target="_blank" rel="noopener noreferrer" href="https://getbits.net">Getbits</a><br/>
+          CryptoArt・代行：<a target="_blank" rel="noopener noreferrer" href="https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e">mintbase</a>　<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/category/cipherweb-arts/">OpenSea</a><br/>
+          グッズ販売・代行：<a target="_blank" rel="noopener noreferrer" href="https://cipherweb.base.ec/">base</a><br/>
+          <b>Contact</b>.<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cipherwebllc">Twitter</a> info@cipher-web.com
         </p>
         <button className="toggle-overlay-button" onClick={handleClick}>Explore →</button>
       </div>
