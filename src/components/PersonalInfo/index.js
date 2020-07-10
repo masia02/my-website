@@ -26,7 +26,7 @@ const PersonalInfo = () => {
         <h3>
           <span>社名　サイファーウェブ合同会社<br/>
           代表社員 高野勝通<br/>
-          創立年月日 平成30年10月15日<br/>
+          Date of Establishment October 15, 2018<br/>
           Digital Creation @ </span>
           <a target="_blank" rel="noopener noreferrer" href={JOB_DATA.url}>{JOB_DATA.name}</a>
         </h3>
