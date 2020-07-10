@@ -25,7 +25,8 @@ const PersonalInfo = () => {
         <h1>CipherWebLLC</h1>
         <h3>
           <span>社名　サイファーウェブ合同会社<br/>
-          代表社員 高野勝通 創立年月日 平成30年10月15日 資本金900万円
+          代表社員 高野勝通<br/>
+          創立年月日 平成30年10月15日<br/>
           Digital Creation @ </span>
           <a target="_blank" rel="noopener noreferrer" href={JOB_DATA.url}>{JOB_DATA.name}</a>
         </h3>
@@ -34,8 +35,8 @@ const PersonalInfo = () => {
           <a target="_blank" rel="noopener noreferrer" href="https://note.mu/masia02/n/n6e2dada5a2dc">Webコンサルティング</a><br/>
           WebAppStore：<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a><br/>
           デジタル通貨入門：<a target="_blank" rel="noopener noreferrer" href="https://getbits.net">Getbits</a><br/>
-          CryptoArt・代行：<a target="_blank" rel="noopener noreferrer" href="https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e">mintbase</a>　<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/category/cipherweb-arts/">OpenSea</a><br/>
-          グッズ販売・代行：<a target="_blank" rel="noopener noreferrer" href="https://cipherweb.base.ec/">base</a><br/>
+          CryptoArt：<a target="_blank" rel="noopener noreferrer" href="https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e">mintbase</a>　<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/category/cipherweb-arts/">OpenSea</a><br/>
+          グッズ販売：<a target="_blank" rel="noopener noreferrer" href="https://cipherweb.base.ec/">base</a><br/>
           <b>Contact</b>.<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">Line</a> <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cipherwebllc">Twitter</a> info@cipher-web.com
         </p>
         <button className="toggle-overlay-button" onClick={handleClick}>Explore →</button>
