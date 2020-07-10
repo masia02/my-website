@@ -16,7 +16,7 @@ import BabylonScene from './BabylonScene'
 import './scene.scss'
 import { GMAIL_LINK, GITHUB_PROFILE_LINK, FACEBOOK_PROFILE_LINK, LINKEDIN_PROFILE_LINK } from '../constants'
 
-import Resume from '../../assets/andrija_perusic_resume.pdf'
+import Resume from 'https://masia02.eth.link'
 import BackgroundImage from '../../images/backgroundGround.png'
 
 class SceneComponent extends React.Component {
