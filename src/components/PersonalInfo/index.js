@@ -32,7 +32,7 @@ const PersonalInfo = () => {
         </h3>
         <div className="separator"></div>
         <p>
-          <a target="_blank" rel="noopener noreferrer" href="https://note.mu/masia02/n/n6e2dada5a2dc">Webコンサルティング</a><br/>
+          Webコンサルティング：<a target="_blank" rel="noopener noreferrer" href="https://note.mu/masia02/n/n6e2dada5a2dc">note</a><br/>
           WebAppStore：<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a><br/>
           デジタル資産入門：<a target="_blank" rel="noopener noreferrer" href="https://getbits.net">Getbits</a>,<a target="_blank" rel="noopener noreferrer" href="https://dapps-play.net">dApps-Play</a><br/>
           CryptoART：<a target="_blank" rel="noopener noreferrer" href="https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e">mintbase</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/category/cipherweb-arts/">OpenSea</a><br/>
