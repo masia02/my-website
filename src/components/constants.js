@@ -5,5 +5,5 @@ export const GMAIL_LINK = 'https://cipherweb.substack.com/'
 
 export const JOB_DATA = {
     name: 'Cryptovoxcel',
-    url: 'https://www.cryptovoxels.com/play?coords=N@238W,12U,572N'
+    url: 'https://www.cryptovoxels.com/play?coords=N@608E,276S'
   }
