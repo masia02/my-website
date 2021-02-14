@@ -26,7 +26,7 @@ const PersonalInfo = () => {
         <h3>
           <span>社名　サイファーウェブ合同会社<br/>
           代表社員　<a target="_blank" rel="noopener noreferrer" href="https://masia02.hns.to">高野勝通</a><br/>
-          Date of Establishment October 15, 2018<br/>
+          dWebXR Tester. CryptoArtist Support.<br/>
           Digital Creation @ </span>
           <a target="_blank" rel="noopener noreferrer" href={JOB_DATA.url}>{JOB_DATA.name}</a>
         </h3>
