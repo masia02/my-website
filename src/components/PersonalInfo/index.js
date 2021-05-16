@@ -26,14 +26,14 @@ const PersonalInfo = () => {
         <h3>
           <span>社名　サイファーウェブ合同会社<br/>
           代表社員　<a target="_blank" rel="noopener noreferrer" href="https://masia02.hns.to">高野勝通</a><br/>
-          dWebXR Tester. CryptoArtist Support.<br/>
+          <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.on.fleek.co/">dWebXR</a> Tester. CryptoArtist Support.<br/>
           Digital Creation @ </span>
           <a target="_blank" rel="noopener noreferrer" href={JOB_DATA.url}>{JOB_DATA.name}</a>
         </h3>
         <div className="separator"></div>
         <p>
           暗号資産入門：<a target="_blank" rel="noopener noreferrer" href="https://getbits.net">Getbits</a>,<a target="_blank" rel="noopener noreferrer" href="https://note.com/masia02/m/mfbd4966b3668">dWebXRマガジン</a><br/>
-          CryptoART：<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/category/cipherweb-arts/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e">mintbase</a>,<a target="_blank" rel="noopener noreferrer" href="https://app.rarible.com/cipherwebllc/collectibles">Rarible</a><br/>
+          CryptoART：<a target="_blank" rel="noopener noreferrer" href="https://app.cargo.build/showcase/dwebxr-labo/cc4c2c/for-sale?filter=%7B%7D">Cargo</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/category/cipherweb-v2/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e">mintbase</a><br/>
           Shop：<a target="_blank" rel="noopener noreferrer" href="https://shop.cipher-web.com/">3DモデルDL＆グッズ販売</a><br/>
           Webコンサルティング：<a target="_blank" rel="noopener noreferrer" href="https://medium.com/cipher-web">Medium</a><br/>
           WebAppStore：<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a><br/>
