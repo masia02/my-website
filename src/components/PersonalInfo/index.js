@@ -33,9 +33,9 @@ const PersonalInfo = () => {
         </h3>
         <div className="separator"></div>
         <p>
-          <a target="_blank" rel="noopener noreferrer" href="https://dapps-play.net">暗号資産入門</a>：<a target="_blank" rel="noopener noreferrer" href="https://note.com/masia02/m/mfbd4966b3668">dWebXRマガジン</a><br/>
-          CryptoARTs：<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/accounts/CipherWeb-Arts/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://tofunft.com/user/0x414D872418D15F1386BC1cE57e5C39133EfD1625/on-sale/fixed-price">TOFUNFT</a><br/>
-          Collections：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">Polygonlow</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/momomitsuki">Momo Mitsuki</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/pegasus-fantasy">Pegasus Fantasy</a><br/>
+          <a target="_blank" rel="noopener noreferrer" href="https://dapps-play.net"><b>暗号資産入門</b></a>：<a target="_blank" rel="noopener noreferrer" href="https://note.com/masia02/m/mfbd4966b3668">dWebXRマガジン</a><br/>
+          <b>CryptoARTs：</b><a target="_blank" rel="noopener noreferrer" href="https://opensea.io/accounts/CipherWeb-Arts/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://tofunft.com/user/0x414D872418D15F1386BC1cE57e5C39133EfD1625/on-sale/fixed-price">TOFUNFT</a><br/>
+          <b>Collections：</b><a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">Polygonlow</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/momomitsuki">Momo Mitsuki</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/pegasus-fantasy">Pegasus Fantasy</a><br/>
           <b>Contact：</b><a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Cfywb3aNWg">Discord</a>,<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cipherwebllc">Twitter</a>,<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/cipher_web">instagram</a>,<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a><br>
           <a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/cipherweb">Links</a>
         </p>
