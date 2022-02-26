@@ -24,7 +24,7 @@ const PersonalInfo = () => {
         <ProfileImage />
         <h1>CipherWeb LLC</h1>
         <h3>
-          <span>社名　サイファーウェブ合同会社<br/>
+          <span>社名　　<a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/cipherweb">サイファーウェブ合同会社</a><br/>
           代表社員　<a target="_blank" rel="noopener noreferrer" href="https://masia02.hns.to">高野勝通</a><br/>
           オープンメタバースに関わっていく会社<br/>
           <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.on.fleek.co/">dWebXR</a> Tester. CryptoArtist Support.<br/>
