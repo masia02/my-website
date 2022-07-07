@@ -25,7 +25,7 @@ const PersonalInfo = () => {
         <h1>CipherWeb LLC</h1>
         <h3>
           <span>社名　　<a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/cipherweb">サイファーウェブ合同会社</a><br/>
-          代表社員　<a target="_blank" rel="noopener noreferrer" href="https://masia02.hns.to">高野勝通</a><br/>
+          代表社員 高野勝通<br/>
           オープンメタバースに関わっていく会社<br/>
           <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.on.fleek.co/">dWebXR</a> Tester. CryptoArtist Support.<br/>
           Digital Creation @ </span>
@@ -34,7 +34,7 @@ const PersonalInfo = () => {
         <div className="separator"></div>
         <p>
           暗号資産入門：<a target="_blank" rel="noopener noreferrer" href="https://note.com/masia02/m/mfbd4966b3668">dWebXRマガジン</a><br/>
-          CryptoARTs：<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/accounts/CipherWeb-Arts/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://tofunft.com/user/0x414D872418D15F1386BC1cE57e5C39133EfD1625/on-sale/fixed-price">TOFUNFT</a><br/>
+          CryptoARTs：<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/accounts/CipherWeb-Arts/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://tofunft.com/user/0xe7C33E18a0324B7C7Db322EDae3Bdbc84Db3A83E/items/in-wallet">TOFUNFT</a><br/>
           Collections：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">Polygonlow</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/momomitsuki">Momo Mitsuki</a><br/>
           Contact：<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Cfywb3aNWg">Discord</a>,<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cipherwebllc">Twitter</a>,<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/cipher_web">instagram</a>,<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a>
         </p>
