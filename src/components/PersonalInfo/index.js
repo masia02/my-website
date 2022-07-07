@@ -26,7 +26,7 @@ const PersonalInfo = () => {
         <h3>
           <span>社名　　<a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/cipherweb">サイファーウェブ合同会社</a><br/>
           代表社員 高野勝通<br/>
-          オープンメタバースに関わっていく会社<br/>
+          オープン<a target="_blank" rel="noopener noreferrer" href="https://jpx7m-miaaa-aaaad-qahpa-cai.ic.fleek.co/">メタバース</a>に関わっていく会社<br/>
           <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.on.fleek.co/">dWebXR</a> Tester. CryptoArtist Support.<br/>
           Digital Creation @ </span>
           <a target="_blank" rel="noopener noreferrer" href={JOB_DATA.url}>{JOB_DATA.name}</a>
