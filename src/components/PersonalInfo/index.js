@@ -35,7 +35,7 @@ const PersonalInfo = () => {
         <p>
           Media：<a target="_blank" rel="noopener noreferrer" href="https://dapps-play.net/">dapps-play</a>,<a target="_blank" rel="noopener noreferrer" href="https://mirror.xyz/cipherweb.eth">mirror</a>,<a target="_blank" rel="noopener noreferrer" href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@masia02">DSocial</a><br/>
           CryptoARTs：<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/accounts/CipherWeb-Arts/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://tofunft.com/user/0xe7C33E18a0324B7C7Db322EDae3Bdbc84Db3A83E/items/in-wallet">TOFUNFT</a><br/>
-          Collections：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">Polygonlow</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/momomitsuki">Momo Mitsuki</a><br/>
+          Collections：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">Polygonlow</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/momomitsuki">Momo Mitsuki</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/yoshie">Yoshie</a><br/>
           Contact：<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Cfywb3aNWg">Discord</a>,<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cipherwebllc">Twitter</a>,<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/cipher_web">instagram</a>,<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a>
         </p>
         <button className="toggle-overlay-button" onClick={handleClick}>Explore →</button>
