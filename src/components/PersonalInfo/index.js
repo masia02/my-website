@@ -33,7 +33,7 @@ const PersonalInfo = () => {
         </h3>
         <div className="separator"></div>
         <p>
-          Media：<a target="_blank" rel="noopener noreferrer" href="https://dapps-play.net/">dApps-Play</a>,<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a>,<a target="_blank" rel="noopener noreferrer" href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@masia02">DSocial</a><br/>
+          Media：<a target="_blank" rel="noopener noreferrer" href="https://medium.com/dwebxr">dWebXR Lab</a>,<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a>,<a target="_blank" rel="noopener noreferrer" href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@masia02">DSocial</a><br/>
           CryptoARTs：<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/accounts/CipherWeb-Arts/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://tofunft.com/user/0xe7C33E18a0324B7C7Db322EDae3Bdbc84Db3A83E/items/in-wallet">TOFUNFT</a><br/>
           NFT Collections：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">PolygonLow</a>,<a target="_blank" rel="noopener noreferrer" href="https://momomitsuki.on.fleek.co/">MomoMitsuki</a><br/>
           Contact：<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Cfywb3aNWg">Discord</a>,<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cipherwebllc">Twitter</a>,<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/cipher_web">instagram</a>,<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a><br />
