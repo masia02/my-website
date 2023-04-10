@@ -27,7 +27,7 @@ const PersonalInfo = () => {
           <span>社名　　<a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/cipherweb">サイファーウェブ合同会社</a><br/>
           代表社員 <a target="_blank" rel="noopener noreferrer" href="https://masia02.eth.limo">高野勝通</a><br/>
           <a target="_blank" rel="noopener noreferrer" href="https://hyperfy.io/cipherweb">Web3メタバース</a>.AIに関わっていく会社<br/>
-          <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.online">dWebXR</a> CryptoArtist & Support.<br/>
+          <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.online">dWebXR</a> CryptoArtist & Support.</span><br/>
           <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/dwebxr_lab">ｄWebXR Lab</a> ⇒ <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/85JVzJaatT">DAO</a>へ
         </h3>
         <div className="separator"></div>
