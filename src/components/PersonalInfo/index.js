@@ -25,17 +25,15 @@ const PersonalInfo = () => {
         <h1>CipherWeb LLC</h1>
         <h3>
           <span>社名　　<a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/cipherweb">サイファーウェブ合同会社</a><br/>
-          代表社員 <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/masia02">高野勝通</a><br/>
-          <a target="_blank" rel="noopener noreferrer" href="https://hyperfy.io/dwebxr">Web3メタバース</a>に関わっていく会社<br/>
-          <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.on.fleek.co/">dWebXR</a> CryptoArtist & Support.<br/>
-          Digital Creation @ </span>
-          <a target="_blank" rel="noopener noreferrer" href={JOB_DATA.url}>{JOB_DATA.name}</a>
+          代表社員 <a target="_blank" rel="noopener noreferrer" href="https://masia02.eth.limo">高野勝通</a><br/>
+          <a target="_blank" rel="noopener noreferrer" href="https://hyperfy.io/cipherweb">Web3メタバース</a>.AIに関わっていく会社<br/>
+          <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.online">dWebXR</a> CryptoArtist & Support.<br/>
+          <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/dwebxr_lab">ｄWebXR Lab</a> ⇒ <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/85JVzJaatT">DAO</a>へ
         </h3>
         <div className="separator"></div>
         <p>
-          Media：<a target="_blank" rel="noopener noreferrer" href="https://medium.com/dwebxr">dWebXR Lab</a>,<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a>,<a target="_blank" rel="noopener noreferrer" href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@masia02">DSocial</a><br/>
-          CryptoARTs：<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/accounts/CipherWeb-Arts/">OpenSea</a>,<a target="_blank" rel="noopener noreferrer" href="https://tofunft.com/user/0xe7C33E18a0324B7C7Db322EDae3Bdbc84Db3A83E/items/in-wallet">TOFUNFT</a><br/>
-          NFT Collections：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">PolygonLow</a>,<a target="_blank" rel="noopener noreferrer" href="https://momomitsuki.on.fleek.co/">MomoMitsuki</a><br/>
+          Media：<a target="_blank" rel="noopener noreferrer" href="https://medium.com/dwebxr">dWebXR</a>,<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a>,<a target="_blank" rel="noopener noreferrer" href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@masia02">DSocial</a><br/>
+          NFT Project：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">PolygonLow</a>,<a target="_blank" rel="noopener noreferrer" href="https://momomitsuki.on.fleek.co/">MomoMitsuki</a><br/>
           Contact：<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Cfywb3aNWg">Discord</a>,<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/cipherwebllc">Twitter</a>,<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/cipher_web">instagram</a>,<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a><br />
           <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSe1QVKSQacI2nsYNIezSqhVh7dg04xJa_jF_whcD6Jpm0KXwA/viewform">弊社へのお問合せ</a>
         </p>
