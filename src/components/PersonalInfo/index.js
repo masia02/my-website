@@ -29,7 +29,7 @@ const PersonalInfo = () => {
           ＩＴソフトウェアの導入、活用支援<br/>
           <a target="_blank" rel="noopener noreferrer" href="https://hyperfy.io/cipherweb">Web3メタバース</a>に関わり、AIエージェントを駆使してDAOを目指す<br/>
           </span><br/>
-          Crypto Artists Support: <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.xyz">dWebXR Lab</a>
+          Creators Support: <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.xyz">dWebXR Lab</a>
         </h3>
         <div className="separator"></div>
         <p>
