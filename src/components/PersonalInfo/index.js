@@ -27,9 +27,10 @@ const PersonalInfo = () => {
           <span>社名　　<a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/cipherweb">サイファーウェブ合同会社</a><br/>
           代表社員 高野勝通<br/>
           ＩＴソフトウェアの導入、活用支援<br/>
-          <a target="_blank" rel="noopener noreferrer" href="https://hyperfy.io/cipherweb">Web3メタバース</a>.AIに関わっていく会社<br/>
-          <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/dwebxr_lab">dWebXR</a> CryptoArtist & Support.</span><br/>
-          <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.xyz">dWebXR Lab</a> ⇒ <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/85JVzJaatT">DAO</a>へ
+          <a target="_blank" rel="noopener noreferrer" href="https://hyperfy.io/cipherweb">Web3メタバース</a>に関わり.AIエージェントを駆使してDAOを目指す会社<br/>
+          </span><br/>
+          Crypto Artists Support<br/>
+          <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.xyz">dWebXR Lab</a> ⇒ DAOへ
         </h3>
         <div className="separator"></div>
         <p>
