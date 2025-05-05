@@ -25,7 +25,7 @@ const PersonalInfo = () => {
         <h1>CipherWeb LLC</h1>
         <h3>
           <span>社名　　<a target="_blank" rel="noopener noreferrer" href="https://linktr.ee/cipherweb">サイファーウェブ合同会社</a><br/>
-          代表社員 <a target="_blank" rel="noopener noreferrer" href="https://masia02.net">高野勝通</a><br/>
+          代表社員 高野勝通<br/>
           ＩＴソフトウェアの導入、活用支援<br/>
           <a target="_blank" rel="noopener noreferrer" href="https://hyperfy.io/cipherweb">Web3メタバース</a>.AIに関わっていく会社<br/>
           <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/dwebxr_lab">dWebXR</a> CryptoArtist & Support.</span><br/>
@@ -33,8 +33,8 @@ const PersonalInfo = () => {
         </h3>
         <div className="separator"></div>
         <p>
-          Media：<a target="_blank" rel="noopener noreferrer" href="https://medium.com/cipher-web">Medium</a>,<a target="_blank" rel="noopener noreferrer" href="https://mora.app/planet/vk6gi-nqaaa-aaaan-qdgwq-cai">Mora</a>,<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a><br/>
-          NFT Project：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">PolygonLow</a>,<a target="_blank" rel="noopener noreferrer" href="https://momomitsuki.on.fleek.co/">MomoMitsuki</a><br/>
+          Media：<a target="_blank" rel="noopener noreferrer" href="https://medium.com/cipher-web">Medium</a>,<a target="_blank" rel="noopener noreferrer" href="https://appfav.net">Appfav</a><br/>
+          NFT Project：<a target="_blank" rel="noopener noreferrer" href="https://polygonlow.xyz/">PolygonLow</a>,<a target="_blank" rel="noopener noreferrer" href="https://opensea.io/collection/momomitsuki">MomoMitsuki</a><br/>
           Contact：<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Cfywb3aNWg">Discord</a>,<a target="_blank" rel="noopener noreferrer" href="https://x.com/cipherwebllc">X</a>,<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/cipher_web">instagram</a>,<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a>,<a target="_blank" rel="noopener noreferrer" href="https://bsky.app/profile/cipher-web.com">bsky</a><br/>
           本店所在地：新潟県新潟市中央区
         </p>
