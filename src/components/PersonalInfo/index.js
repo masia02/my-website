@@ -24,7 +24,7 @@ const PersonalInfo = () => {
         <ProfileImage />
         <h1>CipherWeb LLC</h1>
         <h3>
-          <span>社名　<a target="_blank" rel="noopener noreferrer" href="https://cipher-web.on-fleek.app/">サイファーウェブ合同会社</a><br/>
+          <span>社名　<a rel="noopener noreferrer" href="https://cipher-web.on-fleek.app/">サイファーウェブ合同会社</a><br/>
           代表社員 高野勝通<br/>
           ＩＴソフトウェアの導入、活用支援<br/>
           <a target="_blank" rel="noopener noreferrer" href="https://hyperfy.io/cipherweb">Web3メタバース</a>に関わり、AIエージェントを駆使してDAOを目指す<br/>
