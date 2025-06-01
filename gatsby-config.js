@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `サイファーウェブ合同会社`,
-    description: `フリーランス(個人企業法人)Webコンサルティング・dWebXR・クリプトアーティスト・ブロックチェーンテクノロジーが創る分散社会の思想家`,
+    description: `ITソフトウェア導入・web3・メタバース・AIエージェント関連事業`,
     author: `CipherWeb LLC`,
   },
   plugins: [
