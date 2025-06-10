@@ -32,7 +32,7 @@ const PersonalInfo = () => {
         </h3>
         <div className="separator"></div>
         <p>
-          Contact：<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Cfywb3aNWg">Discord</a>|<a target="_blank" rel="noopener noreferrer" href="https://x.com/cipherwebllc">X</a>|<a target="_blank" rel="noopener noreferrer" href="https://instagram.com/cipher_web">instagram</a>|<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a>|<a target="_blank" rel="noopener noreferrer" href="https://bsky.app/profile/cipher-web.com">bsky</a><br/>
+          Contact：<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/Cfywb3aNWg">Discord</a>|<a target="_blank" rel="noopener noreferrer" href="https://x.com/cipherwebllc">X</a>|<a target="_blank" rel="noopener noreferrer" href="http://threads.com/cipher_web">threads</a>|<a target="_blank" rel="noopener noreferrer" href="https://line.me/R/ti/p/%40zkz7445k">LINE</a>|<a target="_blank" rel="noopener noreferrer" href="https://bsky.app/profile/cipher-web.com">bsky</a><br/>
           本店所在地：新潟県新潟市中央区
         </p>
         <button className="toggle-overlay-button" onClick={handleClick}>Explore →</button>
