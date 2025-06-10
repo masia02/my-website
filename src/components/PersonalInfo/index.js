@@ -26,7 +26,7 @@ const PersonalInfo = () => {
         <h3>
           <span>社名　<a rel="noopener noreferrer" href="https://cipherwebllc.netlify.app">サイファーウェブ合同会社</a><br/>
           代表社員 高野勝通<br/>
-          ＩＴソフトウェアの導入、活用支援<br/>
+          DX推進、活用支援<br/>
           Web3・XR・AI関連事業 <a target="_blank" rel="noopener noreferrer" href="https://dwebxr.xyz">dWebXR Lab</a><br/>
           </span>
         </h3>
